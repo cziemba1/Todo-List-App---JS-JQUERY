@@ -19,3 +19,8 @@ body{
 h1{
     text-transform: uppercase;
 }
+
+.selected{
+    text-decoration: line-through;
+    color: gray;
+}
